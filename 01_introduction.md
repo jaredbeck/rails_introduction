@@ -1,16 +1,30 @@
-rails
-----
+audience?
+---------
 
-- follows conventions
-- suggests technologies (eg. sass/less, coffeescript)
-- promotes automated testing
+- everybody, raise your hands.  lower your hand if:
+	- you've worked with rails
+	- you've worked with an MVC web application framework
+	- you've worked on a user-facing web application
 
-Jeff can cover
-----
+why framework?
+--------------
+
+- stop re-inventing the wheel
+	- sharing libraries, 'nuff said
+- defines conventions, making it easier to bring on new devs
+
+the rails arch.
+---------------
 
 - MVC Architecture and the lifecycle of an incoming HTTP request to a Rails app
 - Maybe some Ruby/Object Oriented basics
 
+rails philosophies
+----------------
+
+- follows conventions
+- suggests technologies (eg. sass/less, coffeescript)
+- promotes automated testing
 
 don't get overwhelmed
 ----
