@@ -5,6 +5,13 @@ rails
 - suggests technologies (eg. sass/less, coffeescript)
 - promotes automated testing
 
+Jeff can cover
+----
+
+- MVC Architecture and the lifecycle of an incoming HTTP request to a Rails app
+- Maybe some Ruby/Object Oriented basics
+
+
 don't get overwhelmed
 ----
 
